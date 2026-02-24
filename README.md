@@ -39,7 +39,13 @@ http://localhost:5173/
 
 ## 📁 Project Structure
 
-src/ ├── components/ ├── pages/ ├── assets/ ├── App.jsx ├── main.jsx └──
+src/
+├── components/
+├── pages/ 
+├── assets/
+├── App.jsx 
+├── main.jsx
+└──
 index.css
 
 ------------------------------------------------------------------------
